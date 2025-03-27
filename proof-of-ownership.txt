@@ -1,0 +1,3 @@
+This repository (EnaUniverseTCG/ena-token) is officially managed by the same wallet that deployed the ENA Token smart contract (0xd448...673aa).
+Contract: 0x4d465ee0827e073d81A3a024BFdcEaa84CAf410E
+Verified by the EnaUniverseTCG team.
